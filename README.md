@@ -1,0 +1,2 @@
+# CheckerInvitesDiscord
+Simples CID
